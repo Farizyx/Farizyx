@@ -1,18 +1,30 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=e94560,ff6b7a,00d4ff&height=200&section=header&text=SALMAN%20FARIS&fontSize=70&fontColor=ffffff&fontAlignY=50&desc=BI%20Analyst%20%7C%20Data%20Engineer%20%7C%20Power%20BI%20Specialist&descSize=20&descAlignY=75&animation=twinkling)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:e94560&height=220&section=header&text=Salman%20Faris&fontSize=52&fontColor=e94560&fontAlignY=38&desc=BI%20Analyst%20%7C%20Data%20Engineer&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
+
+<a href="https://salmanfaris.framer.ai" target="_blank">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&duration=3000&pause=800&color=e94560&center=true&vCenter=true&width=650&lines=Transforming+data+into+business+impact...;Power+BI+%7C+SQL+%7C+Python+%7C+Data+Modeling;Automated+100%2B+hours%2Fmonth+of+reporting;70%2B+outlets+•+40%2B+dashboards+•+80%25+case+reduction" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="mailto:salmancp356@gmail.com"><img src="https://img.shields.io/badge/Email-e94560?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/salmanfariscp" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-e94560?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://salmanfaris.framer.ai" target="_blank"><img src="https://img.shields.io/badge/Portfolio-e94560?style=for-the-badge&logo=framer&logoColor=white" /></a>
+<a href="https://github.com/Farizyx" target="_blank"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=e94560" /></a>
+<a href="tel:+916238993692"><img src="https://img.shields.io/badge/Phone-%2B91--6238993692-e94560?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 </div>
 
+<br/>
+
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="wave" width="35" /> HELLO WORLD
-
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="coding" width="120">
+## 👋 HELLO WORLD
 
 I'm **Salman Faris**, a passionate **BI Analyst & Data Engineer** transforming complex business data into actionable insights. With expertise in **Power BI, SQL, Python, and Data Modeling**, I work directly with C-suite executives and department heads to drive data-powered decisions.
 
-**📧 salmancp356@gmail.com** | **🔗 [LinkedIn](https://linkedin.com/in/salmanfariscp)** | **🌐 [Portfolio](https://salmanfaris.framer.ai)** | **📱 +91-6238993692**
+**📧 [salmancp356@gmail.com](mailto:salmancp356@gmail.com)** | **🔗 [LinkedIn](https://linkedin.com/in/salmanfariscp)** | **🌐 [Portfolio](https://salmanfaris.framer.ai)** | **📱 [+91-6238993692](tel:+916238993692)**
 
 ---
 
@@ -22,7 +34,7 @@ I'm **Salman Faris**, a passionate **BI Analyst & Data Engineer** transforming c
 <tr>
 <td width="50%">
 
-### 🎯 **Who I Am**
+### 👤 **Who I Am**
 
 - 🔹 **Business Process Analyst** at AM Motors (70+ outlets)
 - 🔹 Direct partner with CEO & 8 Department Heads
@@ -70,159 +82,146 @@ I'm **Salman Faris**, a passionate **BI Analyst & Data Engineer** transforming c
 ## 💼 PROFESSIONAL JOURNEY
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                  CAREER TIMELINE                             │
-├─────────────────────────────────────────────────────────────┤
-│                                                               │
-│  2026 ► BUSINESS PROCESS ANALYST @ AM Motors               │
-│          ├─ CEO & Dept Head Partnership                      │
-│          ├─ 40+ Production Dashboards                        │
-│          ├─ Multi-Vertical Strategy Support                  │
-│          └─ Executive Decision Support                       │
-│                                                               │
-│  2025 ► DATA ANALYST @ AM Motors                            │
-│          ├─ +12% Sales Growth Achievement                    │
-│          ├─ +18% Service Inflow Improvement                  │
-│          ├─ 100+ Hours/Month Automated                       │
-│          ├─ 80% Insurance Case Reduction                     │
-│          └─ 100+ Hours/Month Saved                           │
-│                                                               │
-│  2024 ► DATA SCIENTIST INTERN @ Rubixe AI                   │
-│          ├─ SQL & Power BI Analytics                         │
-│          ├─ Dashboard Development                            │
-│          └─ Predictive Modeling (Python)                     │
-│                                                               │
-│  2021 ► EDUCATION & LEARNING                                │
-│          └─ B.Sc. Computer Science                           │
-│                                                               │
-└─────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────┐
+│             CAREER PROGRESSION                          │
+├────────────────────────────────────────────────────────┤
+│                                                          │
+│  Feb 2026 ► BUSINESS PROCESS ANALYST @ AM Motors      │
+│             └─ CEO & Dept Head Partnership              │
+│             └─ 40+ Production Dashboards                │
+│             └─ Multi-Vertical Strategy Support          │
+│                                                          │
+│  Mar 2025 ► DATA ANALYST @ AM Motors                   │
+│             └─ +12% Sales Growth                        │
+│             └─ +18% Service Inflow                      │
+│             └─ 100+ Hours/Month Saved                   │
+│             └─ 80% Insurance Case Reduction             │
+│                                                          │
+│  Sep 2024 ► DATA SCIENTIST INTERN @ Rubixe AI          │
+│             └─ SQL & Power BI Analytics                 │
+│             └─ Dashboard Development                    │
+│             └─ Predictive Modeling (Python)             │
+│                                                          │
+│  2021-2024 ► EDUCATION & LEARNING                      │
+│              └─ B.Sc. Computer Science                  │
+│                                                          │
+└────────────────────────────────────────────────────────┘
 ```
 
 ---
 
 ## 🏆 FEATURED PROJECTS
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top" style="background-color:#0f3460; border-left:4px solid #e94560; border-radius:8px; padding:20px;">
 
-### 🛡️ Insurance Outstanding Tracking Dashboard
-**Reduced cases by 80% with real-time automation**
+<span style="display:inline-block; background:#e94560; color:#fff; border-radius:50%; width:40px; height:40px; text-align:center; line-height:40px; font-size:20px; font-weight:bold;">🛡️</span>
 
-```
-PROBLEM  →  Manual tracking across multiple spreadsheets
-SOLUTION →  Real-time Power BI dashboard with DAX measures
-RESULT   →  2,000+ cases → 400 cases (-80% reduction)
-```
+**Insurance Outstanding Dashboard**
+<br/><br/>
+Real-time tracking reducing outstanding cases by **80%** (2,000+ → 400)
 
-| Impact | Value |
-|--------|-------|
-| **Case Reduction** | 80% |
-| **Time to Resolution** | -50% |
-| **Data Accuracy** | 100% Real-time |
-| **Stakeholder Satisfaction** | Greatly Improved |
+**Impact:**
+- ✅ Case reduction: 80%
+- ✅ Time to resolution: -50%
+- ✅ Data accuracy: 100% real-time
+- ✅ Stakeholder satisfaction: ⬆️
 
-**Tech:** `Power BI` • `DAX` • `SQL` • `Real-Time Streaming` • `Row-Level Security`
+**Tech:** `Power BI` `DAX` `SQL` `Real-Time Streaming`
 
----
+</td>
+<td width="50%" valign="top" style="background-color:#0f3460; border-left:4px solid #00d4ff; border-radius:8px; padding:20px;">
 
-### ⚡ End-to-End ETL & Reporting Pipeline
-**Eliminated 100+ hours/month of manual work**
+<span style="display:inline-block; background:#00d4ff; color:#000; border-radius:50%; width:40px; height:40px; text-align:center; line-height:40px; font-size:20px; font-weight:bold;">⚡</span>
 
-```
-BEFORE  →  Day-long manual data compilation
-AFTER   →  Fully automated real-time pipeline
-IMPACT  →  100+ hours saved every month
-```
+**ETL & Reporting Pipeline**
+<br/><br/>
+Automated pipeline eliminating **100+ hours/month** of manual work
 
-| Metric | Achievement |
-|--------|-------------|
-| **Hours Saved/Month** | 100+ |
-| **Turnaround Time** | Days → Real-time |
-| **Error Reduction** | 95% fewer errors |
-| **Data Freshness** | Every 15 minutes |
+**Impact:**
+- ✅ Hours saved: 100+/month
+- ✅ Turnaround: Days → Real-time
+- ✅ Error reduction: 95%
+- ✅ Data freshness: Every 15min
 
-**Tech:** `SQL` • `Power BI` • `Power Query` • `Power Automate` • `Excel VBA`
+**Tech:** `SQL` `Power BI` `Power Automate` `VBA`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" style="background-color:#0f3460; border-left:4px solid #00d4ff; border-radius:8px; padding:20px;">
 
-### 📈 Sales Funnel Analytics Dashboard
-**Drove 12% sales growth through real-time visibility**
+<span style="display:inline-block; background:#00d4ff; color:#000; border-radius:50%; width:40px; height:40px; text-align:center; line-height:40px; font-size:20px; font-weight:bold;">📈</span>
 
-```
-VISIBILITY  →  Real-time sales funnel across 70+ outlets
-INSIGHT     →  Instant pipeline health & conversion tracking
-OUTCOME     →  +12% YoY sales growth
-```
+**Sales Funnel Analytics**
+<br/><br/>
+Daily reporting across 70+ outlets driving **+12% sales growth**
 
-| KPI | Result |
-|-----|--------|
-| **Sales Growth** | +12% |
-| **Pipeline Visibility** | 100% Real-time |
-| **Decision Speed** | 70% Faster |
-| **Branch Adoption** | 100% |
+**Impact:**
+- ✅ Sales growth: +12%
+- ✅ Pipeline visibility: 100%
+- ✅ Decision speed: 70% faster
+- ✅ Branch adoption: 100%
 
-**Tech:** `Power BI` • `DAX` • `SQL Data Models` • `KPI Tracking`
+**Tech:** `Power BI` `DAX` `SQL` `KPI Tracking`
 
----
+</td>
+<td width="50%" valign="top" style="background-color:#0f3460; border-left:4px solid #e94560; border-radius:8px; padding:20px;">
 
-### 🚗 Service Retention Analytics Model
-**Improved service inflow by 18% with predictive ML**
+<span style="display:inline-block; background:#e94560; color:#fff; border-radius:50%; width:40px; height:40px; text-align:center; line-height:40px; font-size:20px; font-weight:bold;">🚗</span>
 
-```
-CHALLENGE  →  Identify at-risk service customers
-SOLUTION   →  Predictive ML model in Python
-RESULT     →  +18% service vehicle inflow growth
-```
+**Service Retention Model**
+<br/><br/>
+Predictive ML model improving service inflow by **+18%**
 
-| Outcome | Value |
-|---------|-------|
-| **Service Inflow** | +18% |
-| **Retention Rate** | +22% |
-| **Model Accuracy** | 87% |
-| **Revenue Impact** | +$500K+ |
+**Impact:**
+- ✅ Service inflow: +18%
+- ✅ Retention rate: +22%
+- ✅ Model accuracy: 87%
+- ✅ Revenue impact: +$500K+
 
-**Tech:** `Python` • `Scikit-learn` • `Pandas` • `Predictive ML`
+**Tech:** `Python` `Scikit-learn` `Pandas`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" style="background-color:#0f3460; border-left:4px solid #e94560; border-radius:8px; padding:20px;">
 
-### 🔧 Vehicle Allocation Management System
-**Mobile-first app for real-time fleet tracking**
+<span style="display:inline-block; background:#e94560; color:#fff; border-radius:50%; width:40px; height:40px; text-align:center; line-height:40px; font-size:20px; font-weight:bold;">🔧</span>
 
-```
-FEATURE      →  Real-time loan-vehicle allocation
-PLATFORM     →  Mobile-first with role-based access
-BENEFIT      →  25% fleet utilization improvement
-```
+**Vehicle Allocation System**
+<br/><br/>
+Mobile app for real-time fleet tracking across all branches
 
-| Aspect | Benefit |
-|--------|---------|
-| **Mobile Adoption** | 100% |
-| **Real-Time Sync** | Sub-second |
-| **Fleet Utilization** | +25% |
-| **Branch Visibility** | Complete |
+**Impact:**
+- ✅ Mobile adoption: 100%
+- ✅ Real-time sync: Sub-second
+- ✅ Fleet utilization: +25%
+- ✅ Branch visibility: Complete
 
-**Tech:** `AppSheet` • `Mobile Apps` • `Real-Time Database`
+**Tech:** `AppSheet` `Mobile Apps` `Real-Time DB`
 
----
+</td>
+<td width="50%" valign="top" style="background-color:#0f3460; border-left:4px solid #00d4ff; border-radius:8px; padding:20px;">
 
-### 🌐 KPI Performance Tracking Portal
-**24/7 executive dashboard for all branches**
+<span style="display:inline-block; background:#00d4ff; color:#000; border-radius:50%; width:40px; height:40px; text-align:center; line-height:40px; font-size:20px; font-weight:bold;">🌐</span>
 
-```
-MISSION     →  Real-time visibility for leadership
-COVERAGE    →  70+ outlets in one dashboard
-OUTCOME     →  Replaced manual status meetings
-```
+**KPI Performance Portal**
+<br/><br/>
+24/7 executive dashboard for 70+ outlets with live metrics
 
-| Metric | Impact |
-|--------|--------|
-| **Executive Access** | 24/7 Real-time |
-| **Decision Making** | Instant Insights |
-| **Meetings Reduced** | 60% |
-| **Data Confidence** | +90% |
+**Impact:**
+- ✅ Executive access: 24/7
+- ✅ Instant insights: Real-time
+- ✅ Meetings reduced: 60%
+- ✅ Data confidence: +90%
 
-**Tech:** `Power BI` • `HTML/CSS` • `Power Automate`
+**Tech:** `Power BI` `HTML/CSS` `Power Automate`
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -262,13 +261,44 @@ OUTCOME     →  Replaced manual status meetings
 
 ---
 
-## 🎯 COMPETENCIES
+## 📊 GITHUB STATISTICS
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Farizyx&show_icons=true&hide_border=true&bg_color=0f3460&title_color=e94560&icon_color=e94560&text_color=e8e8e8&ring_color=e94560)](https://github.com/Farizyx)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Farizyx&layout=compact&hide_border=true&bg_color=0f3460&title_color=e94560&text_color=e8e8e8&langs_count=6)](https://github.com/Farizyx)
+
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Farizyx&hide_border=true&background=0f3460&ring=e94560&fire=e94560&currStreakLabel=e94560&sideLabels=e8e8e8)](https://github.com/Farizyx)
+
+</div>
+
+---
+
+## 🎓 CERTIFICATIONS & ACHIEVEMENTS
+
+<div align="center">
+
+| 🏆 Certification | 🏛️ Organization | 📅 Date | Status |
+|---|---|---|---|
+| **Certified Data Scientist** | IABAC | Jan 2025 | ✅ Active |
+| **Certified Data Scientist** | NASSCOM | Dec 2024 | ✅ Active |
+| **Business Analysis & Process Management** | Coursera | Jun 2024 | ✅ Complete |
+| **Certified Data Science Program** | Data Mites Global | Dec 2024 | ✅ Complete |
+| **B.Sc. Computer Science** | University of Calicut | Apr 2024 | ✅ Complete |
+| **MBA in Big Data Analytics** | Mizoram University (Online) | In Progress | 🔄 Dec 2025 |
+
+</div>
+
+---
+
+## 🎯 CORE COMPETENCIES
 
 <div align="center">
 
 ```
 ╔════════════════════════════════════════════════════════════════╗
-║                CORE COMPETENCIES FRAMEWORK                     ║
+║                COMPETENCIES FRAMEWORK                          ║
 ╠════════════════════════════════════════════════════════════════╣
 ║                                                                ║
 ║  🎓 STRATEGIC & LEADERSHIP                                    ║
@@ -301,37 +331,6 @@ OUTCOME     →  Replaced manual status meetings
 ║                                                                ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
-
-</div>
-
----
-
-## 📈 GITHUB STATISTICS
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Farizyx&show_icons=true&hide_border=true&bg_color=0f3460&title_color=e94560&icon_color=e94560&text_color=e8e8e8&ring_color=e94560&rank_icon=github)](https://github.com/Farizyx)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Farizyx&layout=compact&hide_border=true&bg_color=0f3460&title_color=e94560&text_color=e8e8e8&langs_count=6)](https://github.com/Farizyx)
-
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Farizyx&hide_border=true&background=0f3460&ring=e94560&fire=e94560&currStreakLabel=e94560&sideLabels=e8e8e8)](https://github.com/Farizyx)
-
-</div>
-
----
-
-## 🎓 CERTIFICATIONS & ACHIEVEMENTS
-
-<div align="center">
-
-| 🏆 Certification | 🏛️ Organization | 📅 Date | Status |
-|---|---|---|---|
-| **Certified Data Scientist** | IABAC | Jan 2025 | ✅ Active |
-| **Certified Data Scientist** | NASSCOM | Dec 2024 | ✅ Active |
-| **Business Analysis & Process Management** | Coursera | Jun 2024 | ✅ Complete |
-| **Certified Data Science Program** | Data Mites Global | Dec 2024 | ✅ Complete |
-| **B.Sc. Computer Science** | University of Calicut | Apr 2024 | ✅ Complete |
-| **MBA in Big Data Analytics** | Mizoram University (Online) | In Progress | 🔄 Dec 2025 |
 
 </div>
 
@@ -383,37 +382,37 @@ I'm open to:
 
 ---
 
-## 📫 GET IN TOUCH
+## 📫 LET'S CONNECT
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center">
+<td align="center" width="20%">
 <a href="mailto:salmancp356@gmail.com">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Email.png" alt="Email" width="50"><br/>
 <b>Email</b>
 </a>
 </td>
-<td align="center">
+<td align="center" width="20%">
 <a href="https://linkedin.com/in/salmanfariscp">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/LinkedIn.png" alt="LinkedIn" width="50"><br/>
 <b>LinkedIn</b>
 </a>
 </td>
-<td align="center">
+<td align="center" width="20%">
 <a href="https://salmanfaris.framer.ai">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Portfolio" width="50"><br/>
 <b>Portfolio</b>
 </a>
 </td>
-<td align="center">
+<td align="center" width="20%">
 <a href="tel:+916238993692">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone.png" alt="Phone" width="50"><br/>
 <b>Call Me</b>
 </a>
 </td>
-<td align="center">
+<td align="center" width="20%">
 <a href="https://github.com/Farizyx">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/GitHub.png" alt="GitHub" width="50"><br/>
 <b>GitHub</b>
